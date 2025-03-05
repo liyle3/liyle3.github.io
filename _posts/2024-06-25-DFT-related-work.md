@@ -36,16 +36,14 @@ tags:
 
 
 * **电子密度（electron density）**
-  $$
-  \rho _{{HS}^{\alpha}}(r) - \rho _{{LS}^{\alpha}}(r) = \sum _A \sum _Q C_Q^{(A, \alpha)} \phi_Q(r - r_A) \\
-  \rho _{{HS}^{\beta}}(r) - \rho _{{LS}^{\beta}}(r) = \sum _A \sum _Q C_Q^{(A, \beta)} \phi_Q(r - r_A) \\
-  $$
-
+  
+  ![](https://raw.githubusercontent.com/liyle3/picgo-resources/main/202503052054582.png)
+  
   * $\alpha$：majority spin
   * $\beta$：minority spin
   * $\phi_Q(r - r_A)$：原子A 第Q个DF基函数
   * $C_Q^{(A, \alpha)}$：基函数的系数
-
+  
   
 
 * **模型输入$p_L^A$**
